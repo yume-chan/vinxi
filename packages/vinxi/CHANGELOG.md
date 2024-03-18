@@ -1,5 +1,11 @@
 # vinxi
 
+## 0.3.11
+
+### Patch Changes
+
+- 1c67f7f: feat: don't crawl for styles in node_modules
+
 ## 0.3.10
 
 ### Patch Changes

@@ -4,6 +4,13 @@
 
 ### Patch Changes
 
+- Updated dependencies [1c67f7f]
+  - vinxi@0.3.11
+
+## null
+
+### Patch Changes
+
 - 4caab63: fix: rsc ssr example, remove vinxi devtools for now
 - Updated dependencies [4caab63]
   - vinxi@0.3.10
